@@ -1,4 +1,4 @@
 # simple maven-project
 
-wait to be polled
+wait to be polled by akd
  
